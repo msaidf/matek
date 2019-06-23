@@ -1,0 +1,11 @@
+*.rda
+*.rds
+*.pdf
+*.Rmd
+*.zip
+*.docx
+.RData
+.ipynb_checkpoints/
+libs/
+Pendahuluan_files/
+PPT\ LIND/
